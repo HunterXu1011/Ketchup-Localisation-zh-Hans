@@ -29,7 +29,7 @@
       </trans-unit>
       <trans-unit id=" at " xml:space="preserve">
         <source> at </source>
-        <target state="translated">阿特</target>
+        <target state="translated">在</target>
         <note>at location evolution requirement text</note>
       </trans-unit>
       <trans-unit id=" at a specific location" xml:space="preserve">
@@ -39,57 +39,57 @@
       </trans-unit>
       <trans-unit id=" but can be traded into it." xml:space="preserve">
         <source> but can be traded into it.</source>
-        <target state="translated">但可以交易到它。</target>
+        <target state="translated">但可以通过交换获取</target>
         <note>Catch Info can be traded in</note>
       </trans-unit>
       <trans-unit id=" can be acquired as a gift in " xml:space="preserve">
         <source> can be acquired as a gift in </source>
-        <target state="translated">可以作为礼物获得</target>
+        <target state="translated">可以作为礼物获取</target>
         <note>Catch Info is gift</note>
       </trans-unit>
       <trans-unit id=" can be acquired in " xml:space="preserve">
         <source> can be acquired in </source>
-        <target state="translated">可以在...中获得</target>
+        <target state="translated">可以在...中获取</target>
         <note>Catch Info acquired in</note>
       </trans-unit>
       <trans-unit id=" can be acquired through breeding in " xml:space="preserve">
         <source> can be acquired through breeding in </source>
-        <target state="translated">可以通过繁殖获得</target>
+        <target state="translated">可以通过繁殖获取</target>
         <note>Catch Info via breeding</note>
       </trans-unit>
       <trans-unit id=" can be acquired through evolution in " xml:space="preserve">
         <source> can be acquired through evolution in </source>
-        <target state="translated">可以通过进化获得</target>
+        <target state="translated">可以通过进化获取</target>
         <note>Catch Info via evolution</note>
       </trans-unit>
       <trans-unit id=" can be acquired using a PokeWalker accessory in " xml:space="preserve">
         <source> can be acquired using a PokeWalker accessory in </source>
-        <target state="translated">可以使用PokeWalker配件获得</target>
+        <target state="translated">可使用PokeWalker配件获取</target>
         <note>Catch Info via Pokewalker</note>
       </trans-unit>
       <trans-unit id=" can be acquired via in-game trade " xml:space="preserve">
         <source> can be acquired via in-game trade </source>
-        <target state="translated">可以通过游戏内交易获得</target>
+        <target state="translated">可通过游戏内交换获取</target>
         <note>Catch Info via in-game trade</note>
       </trans-unit>
       <trans-unit id=" can be acquired via the National Park " xml:space="preserve">
         <source> can be acquired via the National Park </source>
-        <target state="translated">可以通过国家公园获得</target>
+        <target state="translated">可通过自然公园获取</target>
         <note>Catch Info via National Park</note>
       </trans-unit>
       <trans-unit id=" can be acquired via trade evolution in " xml:space="preserve">
         <source> can be acquired via trade evolution in </source>
-        <target state="translated">可以通过贸易演变获得</target>
+        <target state="translated">可通过交换进化获取</target>
         <note>Catch Info via trade evolution</note>
       </trans-unit>
       <trans-unit id=" can be acquired with a second cartridge inserted into the system in " xml:space="preserve">
         <source> can be acquired with a second cartridge inserted into the system in </source>
-        <target state="translated">可以通过将第二个墨盒插入系统来获取</target>
+        <target state="translated">可通过将第二个卡带插入系统获取</target>
         <note>Catch Info via second DS cartridge</note>
       </trans-unit>
       <trans-unit id=" can be caught in " xml:space="preserve">
         <source> can be caught in </source>
-        <target state="translated">可以被抓住</target>
+        <target state="translated">可被捕捉</target>
         <note>Catch Info can be caught</note>
       </trans-unit>
       <trans-unit id=" can be purchased in " xml:space="preserve">
@@ -104,12 +104,12 @@
       </trans-unit>
       <trans-unit id=" can be transferred from Pokémon Go into" xml:space="preserve">
         <source> can be transferred from Pokémon Go into</source>
-        <target state="translated">可以从口袋妖怪转到</target>
+        <target state="translated">可以从Pokémon Go传送</target>
         <note>Catch Info via Pokemon Go</note>
       </trans-unit>
       <trans-unit id=" can be transferred from Pokémon Ranger into " xml:space="preserve">
         <source> can be transferred from Pokémon Ranger into </source>
-        <target state="translated">可以从口袋妖怪游侠转移到</target>
+        <target state="translated">可以从Pokémon Ranger传送</target>
         <note>Catch Info via Pokemon Ranger</note>
       </trans-unit>
       <trans-unit id=" can be transferred from a Poké Ball Plus accessory into " xml:space="preserve">
@@ -119,7 +119,7 @@
       </trans-unit>
       <trans-unit id=" can only be acquired in " xml:space="preserve">
         <source> can only be acquired in </source>
-        <target state="translated">只能获得</target>
+        <target state="translated">只能在…中获取</target>
         <note>Catch Info only acquired</note>
       </trans-unit>
       <trans-unit id=" cannot be found in " xml:space="preserve">
@@ -129,17 +129,17 @@
       </trans-unit>
       <trans-unit id=" could be acquired via Friend Safari in " xml:space="preserve">
         <source> could be acquired via Friend Safari in </source>
-        <target state="translated">可以通过Friend Safari获得</target>
+        <target state="translated">可以通过Friend Safari获取</target>
         <note>Catch Info via Friend Safari</note>
       </trans-unit>
       <trans-unit id=" during a full moon" xml:space="preserve">
         <source> during a full moon</source>
-        <target state="translated">在满月期间</target>
+        <target state="translated">满月时</target>
         <note>full moon evolution requirement</note>
       </trans-unit>
       <trans-unit id=" during daytime" xml:space="preserve">
         <source> during daytime</source>
-        <target state="translated">白天</target>
+        <target state="translated">白天时</target>
         <note>daytime evolution requirement</note>
       </trans-unit>
       <trans-unit id=" during dusk" xml:space="preserve">
@@ -149,17 +149,17 @@
       </trans-unit>
       <trans-unit id=" during night time" xml:space="preserve">
         <source> during night time</source>
-        <target state="translated">在夜间</target>
+        <target state="translated">夜晚时</target>
         <note>night time evolution requirement</note>
       </trans-unit>
       <trans-unit id=" evolves into " xml:space="preserve">
         <source> evolves into </source>
-        <target state="translated">演变成</target>
+        <target state="translated">进化成</target>
         <note>text between before and after evolution creatures</note>
       </trans-unit>
       <trans-unit id=" if " xml:space="preserve">
         <source> if </source>
-        <target state="translated">假如</target>
+        <target state="translated">如果</target>
         <note>evolution requirement condition text</note>
       </trans-unit>
       <trans-unit id=" if a " xml:space="preserve">
@@ -169,37 +169,37 @@
       </trans-unit>
       <trans-unit id=" if a specific creature is in the player’s party" xml:space="preserve">
         <source> if a specific creature is in the player’s party</source>
-        <target state="translated">如果特定生物在玩家的队伍中</target>
+        <target state="translated">如果特定宝可梦在玩家的队伍中</target>
         <note>unknown specific creature in party evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if affection is at least " xml:space="preserve">
         <source> if affection is at least </source>
-        <target state="translated">如果感情至少是</target>
+        <target state="translated">如果友好度至少是</target>
         <note>high affection evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if beauty is at least " xml:space="preserve">
         <source> if beauty is at least </source>
-        <target state="translated">如果美至少是</target>
+        <target state="translated">如果美丽度至少是</target>
         <note>high beauty evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if female" xml:space="preserve">
         <source> if female</source>
-        <target state="translated">如果女性</target>
+        <target state="translated">如果性别是雌性</target>
         <note>if female evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if genderless" xml:space="preserve">
         <source> if genderless</source>
-        <target state="translated">如果没有性别</target>
+        <target state="translated">如果没有性别或性别不明</target>
         <note>genderless evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if happiness is at least " xml:space="preserve">
         <source> if happiness is at least </source>
-        <target state="translated">如果幸福至少是</target>
-        <note>high happiness evolution requirement</note>
+        <target state="translated">如果亲密度至少是</target>
+        <note>high happiness evolution requirement</note><note from="reviewer">未查询到Happiness相关参考翻译</note>
       </trans-unit>
       <trans-unit id=" if its attack is equal to its defence" xml:space="preserve">
         <source> if its attack is equal to its defense</source>
-        <target state="translated">如果它的攻击等于它的防御</target>
+        <target state="translated">如果它的攻击等于防御</target>
         <note>equal attack and defense evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if its attack is greater than its defense" xml:space="preserve">
@@ -209,7 +209,7 @@
       </trans-unit>
       <trans-unit id=" if its defense is greater than its attack" xml:space="preserve">
         <source> if its defense is greater than its attack</source>
-        <target state="translated">如果它的防御大于它的攻击</target>
+        <target state="translated">如果它的防御大于攻击</target>
         <note>higher defense evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if knowing " xml:space="preserve">
@@ -224,17 +224,17 @@
       </trans-unit>
       <trans-unit id=" if knowing a specific move" xml:space="preserve">
         <source> if knowing a specific move</source>
-        <target state="translated">如果知道一个特定的举动</target>
+        <target state="translated">如果学会特定的招式</target>
         <note>unknown specific move evolution requirement</note>
       </trans-unit>
       <trans-unit id=" if male" xml:space="preserve">
         <source> if male</source>
-        <target state="translated">如果男性</target>
+        <target state="translated">如果性别是雄性</target>
         <note>if male evolution requirement   </note>
       </trans-unit>
       <trans-unit id=" in " xml:space="preserve">
         <source> in </source>
-        <target state="translated">铟</target>
+        <target state="translated">在</target>
         <note>_in_</note>
       </trans-unit>
       <trans-unit id=" in the DS’s second slot." xml:space="preserve">
@@ -244,7 +244,7 @@
       </trans-unit>
       <trans-unit id=" is in the player’s party" xml:space="preserve">
         <source> is in the player’s party</source>
-        <target state="translated">在玩家的派对上</target>
+        <target state="translated">在玩家的同行队伍中</target>
         <note>creature in players party evolution requirement</note>
       </trans-unit>
       <trans-unit id=" is incompatible with " xml:space="preserve">
@@ -254,7 +254,7 @@
       </trans-unit>
       <trans-unit id=" is one of the starter Pokémon in " xml:space="preserve">
         <source> is one of the starter Pokémon in </source>
-        <target state="translated">是起始宝可梦之一</target>
+        <target state="translated">是最初的伙伴之一</target>
         <note>Catch Info is starter</note>
       </trans-unit>
       <trans-unit id=" is received as a gift in " xml:space="preserve">
@@ -264,17 +264,17 @@
       </trans-unit>
       <trans-unit id=" type creature is in the player’s party" xml:space="preserve">
         <source> type creature is in the player’s party</source>
-        <target state="translated">类型生物在玩家的队伍中</target>
+        <target state="translated">该属性的宝可梦在玩家的队伍中</target>
         <note>in player party evolution requirement</note>
       </trans-unit>
       <trans-unit id=" type move" xml:space="preserve">
         <source> type move</source>
-        <target state="translated">类型移动</target>
+        <target state="translated">属性的招式</target>
         <note>evolution requirement move type</note>
       </trans-unit>
       <trans-unit id=" via a special event." xml:space="preserve">
         <source> via a special event.</source>
-        <target state="translated">通过一个特别活动。</target>
+        <target state="translated">通过特别活动</target>
         <note>Catch Info via special event</note>
       </trans-unit>
       <trans-unit id=" while holding a " xml:space="preserve">
@@ -284,7 +284,7 @@
       </trans-unit>
       <trans-unit id=" while holding a specific item" xml:space="preserve">
         <source> while holding a specific item</source>
-        <target state="translated">拿着特定物品时</target>
+        <target state="translated">拿着特定道具时</target>
         <note>holding unknown item evolution requirement</note>
       </trans-unit>
       <trans-unit id=" while raining" xml:space="preserve">
@@ -299,48 +299,48 @@
       </trans-unit>
       <trans-unit id=" with a save file from Let’s Go Pikachu or Eevee on the same device." xml:space="preserve">
         <source> with a save file from Let’s Go Pikachu or Eevee on the same device.</source>
-        <target state="translated">在同一设备上保存来自Let's Go Pikachu或Eevee的文件。</target>
+        <target state="translated">在同一设备上拥有Let's Go Pikachu或Eevee的存档。</target>
         <note>Catch Info with save file</note>
       </trans-unit>
       <trans-unit id=" with a save file from Sword or Shield on the same device." xml:space="preserve">
         <source> with a save file from Sword or Shield on the same device.</source>
-        <target state="translated">在同一设备上从Sword或Shield保存文件。</target>
+        <target state="translated">在同一设备上拥有宝可梦剑或宝可梦盾的存档。</target>
         <note>Catch Info with save file</note>
       </trans-unit>
       <trans-unit id=" with either the Isle of Armor or Crown Tundra expansions." xml:space="preserve">
         <source> with either the Isle of Armor or Crown Tundra expansions.</source>
-        <target state="translated">带有盔甲岛或皇冠苔原扩展。</target>
+        <target state="translated">拥有铠之孤岛或冠之雪原的拓展票</target>
         <note>Catch Info via Isle of Aemor or Crown Tundra</note>
       </trans-unit>
       <trans-unit id=" with the Crown Tundra expansion." xml:space="preserve">
         <source> with the Crown Tundra expansion.</source>
-        <target state="translated">随着皇冠苔原的扩张。</target>
+        <target state="translated">拥有冠之雪原的拓展票</target>
         <note>Catch Info via Crown Tundra</note>
       </trans-unit>
       <trans-unit id=" with the Indigo Disk expansion." xml:space="preserve">
         <source> with the Indigo Disk expansion.</source>
-        <target state="translated">与靛蓝磁盘扩展。</target>
+        <target state="translated">拥有蓝之圆盘的拓展票</target>
         <note>Catch Info in Indigo Disk</note>
       </trans-unit>
       <trans-unit id=" with the Isle of Armor expansion." xml:space="preserve">
         <source> with the Isle of Armor expansion.</source>
-        <target state="translated">随着装甲岛的扩张。</target>
+        <target state="translated">拥有铠之孤岛的拓展票</target>
         <note>Catch Info via Isle of Armor</note>
       </trans-unit>
       <trans-unit id=" with the Teal Mask expansion." xml:space="preserve">
         <source> with the Teal Mask expansion.</source>
-        <target state="translated">随着青色面具的扩展。</target>
+        <target state="translated">拥有碧之假面的拓展票</target>
         <note>Catch Info in Teal Mask</note>
       </trans-unit>
       <trans-unit id=" with wither the Teal Mask or Indigo Disk expansions." xml:space="preserve">
         <source> with wither the Teal Mask or Indigo Disk expansions.</source>
-        <target state="translated">带有青色面具或靛蓝磁盘扩展。</target>
+        <target state="translated">拥有碧之假面或蓝之圆盘的拓展票</target>
         <note>Catch Info in Teal Mask or Indigo Disk</note>
       </trans-unit>
       <trans-unit id="(they’re dials!)" xml:space="preserve">
         <source>(they’re dials!)</source>
-        <target state="translated">（它们是表盘！）</target>
-        <note/>
+        <target state="needs-review-translation">（它们是表盘！）</target>
+        <note/><note from="reviewer">不确定Dials的指代</note>
       </trans-unit>
       <trans-unit id=", but this service is no longer available." xml:space="preserve">
         <source>, but this service is no longer available.</source>
@@ -349,12 +349,12 @@
       </trans-unit>
       <trans-unit id="A Pokémon targeted by this move can use Mirror-Move to copy it." xml:space="preserve">
         <source>A Pokémon targeted by this move can use Mirror-Move to copy it.</source>
-        <target state="translated">这个动作的目标宝可梦可以使用镜像移动来复制它。</target>
+        <target state="translated">被该招式指定的宝可梦可以通过使用鹦鹉学舌复制该招式</target>
         <note/>
       </trans-unit>
       <trans-unit id="A single " xml:space="preserve">
         <source>A single </source>
-        <target state="translated">单身</target>
+        <target state="translated">单体</target>
         <note>Catch Info a single</note>
       </trans-unit>
       <trans-unit id="ACC" xml:space="preserve">
@@ -369,7 +369,7 @@
       </trans-unit>
       <trans-unit id="Abilities" xml:space="preserve">
         <source>Abilities</source>
-        <target state="translated">能力</target>
+        <target state="translated">特性</target>
         <note>Navigation item for abilities
 The Creature Page Abilities Section Title</note>
       </trans-unit>
@@ -380,17 +380,17 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="About Ben" xml:space="preserve">
         <source>About Ben</source>
-        <target state="translated">關於本</target>
+        <target state="translated">关于Ben</target>
         <note/>
       </trans-unit>
       <trans-unit id="About Ketchup" xml:space="preserve">
         <source>About Ketchup</source>
-        <target state="translated">关于番茄酱</target>
+        <target state="translated">关于Ketchup(番茄酱)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Accuracy" xml:space="preserve">
         <source>Accuracy</source>
-        <target state="translated">精确度</target>
+        <target state="translated">命中</target>
         <note/>
       </trans-unit>
       <trans-unit id="Add DS Skin" xml:space="preserve">
@@ -410,117 +410,117 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Adds ghost to the target’s types." xml:space="preserve">
         <source>Adds ghost to the target’s types.</source>
-        <target state="translated">将鬼魂添加到目标类型中。</target>
+        <target state="translated">将幽灵属性添加到目标上</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Adds grass to the target’s types." xml:space="preserve">
         <source>Adds grass to the target’s types.</source>
-        <target state="translated">将草添加到目标的类型中。</target>
+        <target state="translated">将草属性添加到目标上</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Afer defeating the Elite Four a second time." xml:space="preserve">
         <source>Afer defeating the Elite Four a second time.</source>
-        <target state="translated">在第二次击败四天王之后。</target>
+        <target state="translated">第二次击败四天王后</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After Entering the Hall of Fame" xml:space="preserve">
         <source>After Entering the Hall of Fame</source>
-        <target state="translated">进入名人堂后</target>
+        <target state="translated">登入名人堂后</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After Returning the Machine Part to the Power Plant." xml:space="preserve">
         <source>After Returning the Machine Part to the Power Plant.</source>
-        <target state="translated">将机器零件送回发电厂后。</target>
+        <target state="translated">将机器零件归还给发电厂后</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After curing Sailor Eldritch’s son’s nightmares." xml:space="preserve">
         <source>After curing Sailor Eldritch’s son’s nightmares.</source>
-        <target state="translated">在治愈了 Sailor Eldritch 儿子的噩梦之后。</target>
+        <target state="translated">解除了波木的儿子（波太郎）的噩梦后</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After defeating Jupiter." xml:space="preserve">
         <source>After defeating Jupiter.</source>
-        <target state="translated">打败木星后。</target>
+        <target state="translated">击败岁星后</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After defeating Mars." xml:space="preserve">
         <source>After defeating Mars.</source>
-        <target state="translated">打败火星后。</target>
+        <target state="translated">击败伙星后</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After defeating Red." xml:space="preserve">
         <source>After defeating Red.</source>
-        <target state="translated">打败紅色之後。</target>
+        <target state="translated">击败赤红后</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After defeating Team Galactic at Iron Island." xml:space="preserve">
         <source>After defeating Team Galactic at Iron Island.</source>
-        <target state="translated">在铁岛击败银河队后。</target>
+        <target state="translated">在钢铁岛击败银河队后</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After encountering Tornadus and Thunderus." xml:space="preserve">
         <source>After encountering Tornadus and Thunderus.</source>
-        <target state="translated">遭遇龙卷云和雷神之后。</target>
+        <target state="translated">遭遇龙卷云和雷电云后</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After entering the correct password." xml:space="preserve">
         <source>After entering the correct password.</source>
-        <target state="translated">输入正确的密码后。</target>
+        <target state="translated">输入正确的密码后</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After having awakened the beasts." xml:space="preserve">
         <source>After having awakened the beasts.</source>
-        <target state="translated">唤醒了魔兽之后。</target>
-        <note>Encounter Condition</note>
+        <target state="translated">唤醒究极异兽后</target>
+        <note>Encounter Condition</note><note from="reviewer">不确定Beast是否代指究极异兽</note>
       </trans-unit>
       <trans-unit id="After inflicting damage, causes all Normal-type moves to become Electric-type for the remainder of the turn." xml:space="preserve">
         <source>After inflicting damage, causes all Normal-type moves to become Electric-type for the remainder of the turn.</source>
-        <target state="translated">造成伤害后，导致所有普通类型动作在剩余回合中变为电类型。</target>
+        <target state="translated">在造成伤害后，在本回合剩余时间内将一般属性的招式变成电属性</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="After receiving TM59 from Claire." xml:space="preserve">
         <source>After receiving TM59 from Claire.</source>
-        <target state="translated">从克莱尔那里收到TM59后。</target>
+        <target state="translated">在克莱尔的道馆获得秘传机59后</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After receiving a Kanto starter." xml:space="preserve">
         <source>After receiving a Kanto starter.</source>
-        <target state="translated">接到关东首发后。</target>
+        <target state="translated">接收了关都地区的初始宝可梦（御三家）之后</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After receiving the National Dex." xml:space="preserve">
         <source>After receiving the National Dex.</source>
-        <target state="translated">收到国家图鉴后。</target>
+        <target state="translated">获得全国图鉴后</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After receiving the Zephyr Badge." xml:space="preserve">
         <source>After receiving the Zephyr Badge.</source>
-        <target state="translated">收到 Zephyr 徽章后。</target>
+        <target state="translated">获得云徽章后</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After returning Copycat’s doll to the Pokémon Fan Club." xml:space="preserve">
         <source>After returning Copycat’s doll to the Pokémon Fan Club.</source>
-        <target state="translated">将 Copycat 的娃娃归还给 Pokémon 粉丝俱乐部后。</target>
+        <target state="translated">将模仿少女（Copycat）的娃娃归还给宝可梦爱好者俱乐部后</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After talking to Cynthias Grandmother." xml:space="preserve">
         <source>After talking to Cynthias Grandmother.</source>
-        <target state="translated">与辛西娅的祖母交谈后。</target>
+        <target state="translated">与竹兰的祖母对话后</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After talking to Professor Oak in Eterna City." xml:space="preserve">
         <source>After talking to Professor Oak in Eterna City.</source>
-        <target state="translated">与永恒城的大木博士交谈后。</target>
+        <target state="translated">与百代市的大木博士对话后</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After talking to at least 32 people in the Underground." xml:space="preserve">
         <source>After talking to at least 32 people in the Underground.</source>
-        <target state="translated">与地下至少 32 人交谈后。</target>
+        <target state="translated">与地下世界与至少 32 人对话后</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="After visiting Lake Verity after defeating Team Galactic at Mt. Coronet" xml:space="preserve">
         <source>After visiting Lake Verity after defeating Team Galactic at Mt. Coronet</source>
-        <target state="translated">在击败位于天冠山的银河队后，前往维里蒂湖</target>
+        <target state="translated">在击败天冠山的银河队后，前往心齐湖</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
@@ -530,12 +530,12 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="All Allies" xml:space="preserve">
         <source>All Allies</source>
-        <target state="translated">所有盟友</target>
+        <target state="translated">所有同伴</target>
         <note/>
       </trans-unit>
       <trans-unit id="All Machines" xml:space="preserve">
         <source>All Machines</source>
-        <target state="translated">所有机器</target>
+        <target state="translated">所有秘传机器</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="All Mail" xml:space="preserve">
@@ -545,37 +545,37 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="All Opponents" xml:space="preserve">
         <source>All Opponents</source>
-        <target state="translated">所有反对者</target>
+        <target state="translated">所有对手</target>
         <note/>
       </trans-unit>
       <trans-unit id="All Other Pokemon" xml:space="preserve">
         <source>All Other Pokemon</source>
-        <target state="translated">所有其他口袋妖怪</target>
+        <target state="translated">所有其他宝可梦</target>
         <note/>
       </trans-unit>
       <trans-unit id="All Pokemon" xml:space="preserve">
         <source>All Pokemon</source>
-        <target state="translated">所有口袋妖怪</target>
+        <target state="translated">所有宝可梦</target>
         <note/>
       </trans-unit>
       <trans-unit id="All Pokémon’s Defense and Special Defense are swapped for 5 turns." xml:space="preserve">
         <source>All Pokémon’s Defense and Special Defense are swapped for 5 turns.</source>
-        <target state="translated">所有宝可梦的防御与特防互换5回合。</target>
+        <target state="translated">所有宝可梦的防御与特防互换5回合</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Allows the trainer to switch out the user and pass effects along to its replacement." xml:space="preserve">
         <source>Allows the trainer to switch out the user and pass effects along to its replacement.</source>
-        <target state="translated">允许训练师切换用户并将效果传递给替代者。</target>
+        <target state="translated">允许训练师替换宝可梦并将其身上的效果传递给下一个上场的宝可梦</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Ally" xml:space="preserve">
         <source>Ally</source>
-        <target state="translated">盟国</target>
+        <target state="translated">同伴</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ally’s next move inflicts half more damage." xml:space="preserve">
         <source>Ally’s next move inflicts half more damage.</source>
-        <target state="translated">盟友的下一步行动将造成一半以上的伤害。</target>
+        <target state="translated">同伴的下一个招式将造成1.5倍的伤害</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Alpha Sapphire" xml:space="preserve">
@@ -590,12 +590,12 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Also by Ben" xml:space="preserve">
         <source>Also by Ben</source>
-        <target state="translated">也是本</target>
+        <target state="translated">作者的其它作品</target>
         <note/>
       </trans-unit>
       <trans-unit id="Alt App Icons" xml:space="preserve">
         <source>Alt App Icons</source>
-        <target state="translated">Alt 应用程序图标</target>
+        <target state="translated">其它应用程序图标</target>
         <note>Paywall Text</note>
       </trans-unit>
       <trans-unit id="Always scores a critical hit." xml:space="preserve">
@@ -615,27 +615,27 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Appearance" xml:space="preserve">
         <source>Appearance</source>
-        <target state="translated">外表</target>
+        <target state="translated">外观</target>
         <note/>
       </trans-unit>
       <trans-unit id="Apricorn Balls" xml:space="preserve">
         <source>Apricorn Balls</source>
-        <target state="translated">杏子球</target>
+        <target state="translated">球果果</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Apricorn Box" xml:space="preserve">
         <source>Apricorn Box</source>
-        <target state="translated">杏子盒</target>
+        <target state="translated">球果盒</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Armor" xml:space="preserve">
         <source>Armor</source>
-        <target state="translated">盔甲</target>
+        <target state="translated">虫形</target>
         <note>Creature Shape</note>
       </trans-unit>
       <trans-unit id="Arms" xml:space="preserve">
         <source>Arms</source>
-        <target state="translated">臂状物</target>
+        <target state="translated">手臂</target>
         <note>Creature Shape</note>
       </trans-unit>
       <trans-unit id="Attack" xml:space="preserve">
@@ -645,32 +645,32 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Authentic" xml:space="preserve">
         <source>Authentic</source>
-        <target state="translated">真品的</target>
+        <target state="translated">真品</target>
         <note/>
       </trans-unit>
       <trans-unit id="Averages Attack and Special Attack with the target." xml:space="preserve">
         <source>Averages Attack and Special Attack with the target.</source>
-        <target state="translated">对目标进行平均攻击和特殊攻击。</target>
+        <target state="translated">将自己和对手的攻击和特攻相加，再进行平分</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Averages Defense and Special Defense with the target." xml:space="preserve">
         <source>Averages Defense and Special Defense with the target.</source>
-        <target state="translated">与目标平均防御和特殊防御。</target>
+        <target state="translated">将自己和对手的防御和特防相加，再进行平分</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Bad Beld Items" xml:space="preserve">
         <source>Bad Beld Items</source>
-        <target state="translated">坏贝尔德物品</target>
+        <target state="translated">损坏的物品</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="Badly Poison" xml:space="preserve">
         <source>Badly Poison</source>
-        <target state="translated">毒药</target>
+        <target state="translated">剧毒</target>
         <note>Item Fling Effect</note>
       </trans-unit>
       <trans-unit id="Badly poisons the target, inflicting more damage every turn." xml:space="preserve">
         <source>Badly poisons the target, inflicting more damage every turn.</source>
-        <target state="translated">严重毒害目标，每一回合造成更大的伤害。</target>
+        <target state="translated">让对手陷入剧毒状态。随着回合的推进，中毒伤害会增加。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Baking Only" xml:space="preserve">
@@ -685,12 +685,12 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Ballistics" xml:space="preserve">
         <source>Ballistics</source>
-        <target state="translated">弹道学</target>
+        <target state="translated">弹道</target>
         <note/>
       </trans-unit>
       <trans-unit id="Base Happiness" xml:space="preserve">
         <source>Base Happiness</source>
-        <target state="translated">基础幸福</target>
+        <target state="translated">基础幸福度</target>
         <note/>
       </trans-unit>
       <trans-unit id="Battle Items" xml:space="preserve">
@@ -700,12 +700,12 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Berries" xml:space="preserve">
         <source>Berries</source>
-        <target state="translated">浆果</target>
+        <target state="translated">树果</target>
         <note>Item Pocket</note>
       </trans-unit>
       <trans-unit id="Berry Effect" xml:space="preserve">
         <source>Berry Effect</source>
-        <target state="translated">浆果效应</target>
+        <target state="translated">树果效果</target>
         <note>Item Fling Effect</note>
       </trans-unit>
       <trans-unit id="Bite" xml:space="preserve">
@@ -715,27 +715,27 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Black" xml:space="preserve">
         <source>Black</source>
-        <target state="translated">黑色的</target>
+        <target state="translated">黑</target>
         <note>Pokémon Black</note>
       </trans-unit>
       <trans-unit id="Black 2" xml:space="preserve">
         <source>Black 2</source>
-        <target state="translated">黑色 2</target>
+        <target state="translated">黑2</target>
         <note>Pokémon Black 2</note>
       </trans-unit>
       <trans-unit id="Blob" xml:space="preserve">
         <source>Blob</source>
-        <target state="translated">一滴</target>
+        <target state="translated">Blob</target>
         <note>Creature Shape</note>
       </trans-unit>
       <trans-unit id="Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP." xml:space="preserve">
         <source>Blocks damaging attacks and damages attacking Pokémon for 1/8 their max HP.</source>
-        <target state="translated">阻挡伤害性攻击，并对攻击神奇宝贝造成其最大生命值的 1/8 的伤害。</target>
+        <target state="translated">防住对手攻击的同时，削减接触到自己的对手的体力，对攻击方造成其最大生命值的 1/8 的伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Blocks damaging attacks and lowers attacking Pokémon’s Attack by two stages on contact. Switches Aegislash to Shield Forme." xml:space="preserve">
         <source>Blocks damaging attacks and lowers attacking Pokémon’s Attack by two stages on contact. Switches Aegislash to Shield Forme.</source>
-        <target state="translated">抵挡伤害性攻击，并在接触时降低攻击型宝可梦的攻击力两级。将 Aegislash 切换为 Shield Forme。</target>
+        <target state="translated">防住对手攻击的同时，坚盾剑怪变为防御姿态，大幅降低所接触到的对手的攻击。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Blog" xml:space="preserve">
@@ -745,12 +745,12 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Blue" xml:space="preserve">
         <source>Blue</source>
-        <target state="translated">蓝色的</target>
+        <target state="translated">蓝</target>
         <note>Pokémon Blue</note>
       </trans-unit>
       <trans-unit id="Boosts the user’s Speed and lowers their Defense by one stage after inflicting damage two to five times in a row." xml:space="preserve">
         <source>Boosts the user’s Speed and lowers their Defense by one stage after inflicting damage two to five times in a row.</source>
-        <target state="translated">连续两到五次造成伤害后，使用者的速度会提高，防御会降低一个阶段。</target>
+        <target state="translated">连续攻击２～５次，速度会提高但防御会降低。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Brilliant Diamond" xml:space="preserve">
@@ -760,18 +760,18 @@ The Creature Page Abilities Section Title</note>
       </trans-unit>
       <trans-unit id="Bug" xml:space="preserve">
         <source>Bug</source>
-        <target state="translated">昆虫</target>
+        <target state="translated">虫</target>
         <note>Creature Egg Group
 Pokémon Type Bug</note>
       </trans-unit>
       <trans-unit id="Bug Wings" xml:space="preserve">
         <source>Bug Wings</source>
-        <target state="translated">虫翼</target>
+        <target state="translated">多翅形</target>
         <note>Creature Shape</note>
       </trans-unit>
       <trans-unit id="Burn" xml:space="preserve">
         <source>Burn</source>
-        <target state="translated">烧伤</target>
+        <target state="translated">灼伤</target>
         <note>Item Fling Effect</note>
       </trans-unit>
       <trans-unit id="Burns the target." xml:space="preserve">
@@ -786,32 +786,32 @@ Pokémon Type Bug</note>
       </trans-unit>
       <trans-unit id="By Type" xml:space="preserve">
         <source>By Type</source>
-        <target state="translated">按类型</target>
+        <target state="translated">按属性</target>
         <note>By Type Sorting option</note>
       </trans-unit>
       <trans-unit id="Calculates damage with the target’s attacking stat." xml:space="preserve">
         <source>Calculates damage with the target’s attacking stat.</source>
-        <target state="translated">根据目标的攻击属性计算伤害。</target>
+        <target state="translated">根据目标的攻击能力值计算伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Can only be used after all of the user’s other moves have been used." xml:space="preserve">
         <source>Can only be used after all of the user’s other moves have been used.</source>
-        <target state="translated">仅当使用者的其他所有招式都已使用后才可使用。</target>
+        <target state="translated">只能在其它招式均使用过之后才可以使用。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Can only be used after the user has eaten a berry." xml:space="preserve">
         <source>Can only be used after the user has eaten a berry.</source>
-        <target state="translated">仅可在使用者吃了浆果后使用。</target>
+        <target state="translated">只能在使用树果之后才可以使用。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Can only be used as the first move after the user enters battle." xml:space="preserve">
         <source>Can only be used as the first move after the user enters battle.</source>
-        <target state="translated">仅可作为使用者进入战斗后的第一个招式使用。</target>
+        <target state="translated">只有在出场战斗时，立刻使出才能成功。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Can only be used as the first move after the user enters battle. Causes the target to flinch." xml:space="preserve">
         <source>Can only be used as the first move after the user enters battle. Causes the target to flinch.</source>
-        <target state="translated">仅可作为使用者进入战斗后的第一个招式使用。使目标畏缩。</target>
+        <target state="translated">进行先制攻击，使对手畏缩。要在出场后立刻使出才能成功。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Cancel" xml:space="preserve">
@@ -922,12 +922,12 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Changes the user’s type to a random type either resistant or immune to the last move used against it." xml:space="preserve">
         <source>Changes the user’s type to a random type either resistant or immune to the last move used against it.</source>
-        <target state="translated">将用户的类型更改为随机类型，对最后针对它的动作有抵抗力或免疫力。</target>
+        <target state="translated">将用户的类型更改为随机类型，对最后针对它的招式有抵抗力或免疫力。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Changes the weather to Shadow Sky for five turns." xml:space="preserve">
         <source>Changes the weather to Shadow Sky for five turns.</source>
-        <target state="translated">将天气更改为暗影天空，持续五回合。</target>
+        <target state="new">接下来5回合的天气变更为黑暗气场。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Changes the weather to a hailstorm for five turns." xml:space="preserve">
@@ -972,7 +972,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Checking Berry piles" xml:space="preserve">
         <source>Checking Berry piles</source>
-        <target state="translated">检查浆果堆</target>
+        <target state="translated">检查树果堆</target>
         <note>Encounter Method</note>
       </trans-unit>
       <trans-unit id="Choice" xml:space="preserve">
@@ -1002,7 +1002,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Colosseum" xml:space="preserve">
         <source>Colosseum</source>
-        <target state="translated">罗马斗兽场</target>
+        <target state="translated">宝可梦圆形竞技场</target>
         <note>Pokémon Colosseum</note>
       </trans-unit>
       <trans-unit id="Confuses the target." xml:space="preserve">
@@ -1012,7 +1012,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Congratulations Pokémon Master!" xml:space="preserve">
         <source>Congratulations Pokémon Master!</source>
-        <target state="translated">恭喜口袋妖怪大师！</target>
+        <target state="translated">恭喜宝可梦大师！</target>
         <note/>
       </trans-unit>
       <trans-unit id="Contact" xml:space="preserve">
@@ -1027,7 +1027,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Copies the target’s last used move." xml:space="preserve">
         <source>Copies the target’s last used move.</source>
-        <target state="translated">复制目标最后使用的动作。</target>
+        <target state="translated">复制目标最后使用的招式。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Copies the user’s ability onto the target." xml:space="preserve">
@@ -1152,7 +1152,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Delta Skin" xml:space="preserve">
         <source>Delta Skin</source>
-        <target state="translated">三角洲皮肤</target>
+        <target state="translated">Delta模拟器皮肤</target>
         <note/>
       </trans-unit>
       <trans-unit id="Delta Skins require Ketchup+" xml:space="preserve">
@@ -1177,7 +1177,7 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Destroys the target’s held berry." xml:space="preserve">
         <source>Destroys the target’s held berry.</source>
-        <target state="translated">摧毁目标持有的浆果。</target>
+        <target state="translated">摧毁目标持有的树果。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Dex Completion" xml:space="preserve">
@@ -1192,12 +1192,12 @@ The caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Disables moves and immunities that involve flying or levitating for five turns." xml:space="preserve">
         <source>Disables moves and immunities that involve flying or levitating for five turns.</source>
-        <target state="translated">禁用涉及飞行或悬浮的动作和免疫五回合。</target>
+        <target state="translated">禁用涉及飞行或悬浮的招式和免疫五回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Disables the target’s last used move for 1-8 turns." xml:space="preserve">
         <source>Disables the target’s last used move for 1-8 turns.</source>
-        <target state="translated">使目标最后使用的动作无法持续 1-8 个回合。</target>
+        <target state="translated">使目标最后使用的招式无法持续 1-8 个回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Discards the user’s stat changes and copies the target’s." xml:space="preserve">
@@ -1378,7 +1378,7 @@ Pokémon Type Dragon</note>
       </trans-unit>
       <trans-unit id="Ensures that the user’s next move will hit the target." xml:space="preserve">
         <source>Ensures that the user’s next move will hit the target.</source>
-        <target state="translated">确保用户的下一步动作能够击中目标。</target>
+        <target state="translated">确保用户的下一步招式能够击中目标。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Entire Field" xml:space="preserve">
@@ -1418,7 +1418,7 @@ Pokémon Type Dragon</note>
       </trans-unit>
       <trans-unit id="Fainting Pokemon" xml:space="preserve">
         <source>Fainting Pokemon</source>
-        <target state="translated">坝坝的口袋妖怪</target>
+        <target state="translated">坝坝的宝可梦</target>
         <note/>
       </trans-unit>
       <trans-unit id="Fairy" xml:space="preserve">
@@ -1570,7 +1570,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="For the next few turns, the target can only use damaging moves." xml:space="preserve">
         <source>For the next few turns, the target can only use damaging moves.</source>
-        <target state="translated">在接下来的几个回合中，目标只能使用破坏性的动作。</target>
+        <target state="translated">在接下来的几个回合中，目标只能使用破坏性的招式。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="For three turns, friendly Pokémon have doubled Speed." xml:space="preserve">
@@ -1580,7 +1580,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="For years I’ve wanted to build a Pokédex app, but I could never quite find the time or the unique angle to justify it. At the start of 2024, I decided just to go for it. I had a new idea for a combined search field, tab bar, and history view that I felt could really tie the whole app together, and make navigation feel incredibly fast and fluid. I hope the combination of this new navigation system, and the all the information within the app will please old and new fans of the Pokémon games, as much as I’ve enjoyed working on it." xml:space="preserve">
         <source>For years I’ve wanted to build a Pokédex app, but I could never quite find the time or the unique angle to justify it. At the start of 2024, I decided just to go for it. I had a new idea for a combined search field, tab bar, and history view that I felt could really tie the whole app together, and make navigation feel incredibly fast and fluid. I hope the combination of this new navigation system, and the all the information within the app will please old and new fans of the Pokémon games, as much as I’ve enjoyed working on it.</source>
-        <target state="translated">多年来，我一直想构建一个Pokédex应用程序，但我永远找不到时间或独特的角度来证明它。2024年初，我决定去做。我有一个组合搜索字段、选项卡栏和历史视图的新想法，我觉得它真的可以将整个应用程序绑定在一起，并使导航感觉令人难以置信的快速和流畅。我希望这个新导航系统的结合，以及应用程序中的所有信息将取悦口袋妖怪游戏的新老粉丝，就像我喜欢它一样。</target>
+        <target state="translated">多年来，我一直想构建一个Pokédex应用程序，但我永远找不到时间或独特的角度来证明它。2024年初，我决定去做。我有一个组合搜索字段、选项卡栏和历史视图的新想法，我觉得它真的可以将整个应用程序绑定在一起，并使导航感觉令人难以置信的快速和流畅。我希望这个新导航系统的结合，以及应用程序中的所有信息将取悦宝可梦游戏的新老粉丝，就像我喜欢它一样。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Forced to use this move for several turns. Pokémon cannot fall asleep in that time." xml:space="preserve">
@@ -1590,7 +1590,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it’s a Ghost." xml:space="preserve">
         <source>Forces the target to have no Evade, and allows it to be hit by Normal and Fighting moves even if it’s a Ghost.</source>
-        <target state="translated">强制目标无法躲避，即使是幽灵，也能被普通动作和格斗动作击中。</target>
+        <target state="translated">强制目标无法躲避，即使是幽灵，也能被普通招式和格斗招式击中。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Forces the target to have no evasion, and allows it to be hit by Psychic moves even if it’s Dark." xml:space="preserve">
@@ -1600,12 +1600,12 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Forces the target to repeat its last used move every turn for 2 to 6 turns." xml:space="preserve">
         <source>Forces the target to repeat its last used move every turn for 2 to 6 turns.</source>
-        <target state="translated">强制目标每回合重复其最后使用的动作，持续 2 至 6 个回合。</target>
+        <target state="translated">强制目标每回合重复其最后使用的招式，持续 2 至 6 个回合。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Forces the target to repeat its last used move." xml:space="preserve">
         <source>Forces the target to repeat its last used move.</source>
-        <target state="translated">强制目标重复其最后使用的动作。</target>
+        <target state="translated">强制目标重复其最后使用的招式。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Forces the target’s opponents to aim at the target for the rest of the turn." xml:space="preserve">
@@ -1615,12 +1615,12 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Frees the user from binding moves, removes Leech Seed, and blows away Spikes." xml:space="preserve">
         <source>Frees the user from binding moves, removes Leech Seed, and blows away Spikes.</source>
-        <target state="translated">使用户摆脱束缚动作、移除寄生种子并吹走尖刺。</target>
+        <target state="translated">使用户摆脱束缚招式、移除寄生种子并吹走尖刺。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Galarian Yamask evolves into Runerigus when the player travels under the large rock arch in Dusty Bowl after Yamask takes at least 49 HP in damage from attacks without fainting" xml:space="preserve">
         <source>Galarian Yamask evolves into Runerigus when the player travels under the large rock arch in Dusty Bowl after Yamask takes at least 49 HP in damage from attacks without fainting</source>
-        <target state="translated">当玩家在尘土飞扬的碗的大岩石拱门下旅行时，Galarian Yamask进化为Runerigus，因为Yamask从攻击中获得至少49HP的伤害而没有昏厥</target>
+        <target state="translated">当玩家在尘土飞扬的碗的大岩石拱门下旅行时，Galarian Yamask进化为Runerigus，因为Yamask从攻击中获取至少49HP的伤害而没有昏厥</target>
         <note>Galarian Yamask Evolution Text</note>
       </trans-unit>
       <trans-unit id="Gameplay" xml:space="preserve">
@@ -1650,7 +1650,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Get Ketchup+ to Unlock Filters" xml:space="preserve">
         <source>Get Ketchup+ to Unlock Filters</source>
-        <target state="translated">获取Ketchup+来解锁过滤器</target>
+        <target state="translated">获取Ketchup+并解锁筛选功能</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ghost" xml:space="preserve">
@@ -1675,7 +1675,7 @@ Pokémon Type Flying</note>
       </trans-unit>
       <trans-unit id="Grants the user protection for the rest of the turn and poisons any Pokémon that tries to use a contact move on it." xml:space="preserve">
         <source>Grants the user protection for the rest of the turn and poisons any Pokémon that tries to use a contact move on it.</source>
-        <target state="translated">为用户提供本回合剩余时间的保护，并毒害任何试图对其使用接触动作的神奇宝贝。</target>
+        <target state="translated">为用户提供本回合剩余时间的保护，并毒害任何试图对其使用接触招式的神奇宝贝。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Grass" xml:space="preserve">
@@ -1706,22 +1706,22 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="Guarantees a critical hit with the user’s next move." xml:space="preserve">
         <source>Guarantees a critical hit with the user’s next move.</source>
-        <target state="translated">保证用户的下一步动作造成致命一击。</target>
+        <target state="translated">保证用户的下一步招式造成致命一击。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Guess 1" xml:space="preserve">
         <source>Guess 1</source>
-        <target state="translated">猜1</target>
+        <target state="translated">你的答案是</target>
         <note>The first guess of the quiz</note>
       </trans-unit>
       <trans-unit id="Guess 2" xml:space="preserve">
         <source>Guess 2</source>
-        <target state="translated">猜猜2</target>
+        <target state="translated">你的答案是</target>
         <note>The second guess of the quiz</note>
       </trans-unit>
       <trans-unit id="Guess 3" xml:space="preserve">
         <source>Guess 3</source>
-        <target state="translated">猜猜3</target>
+        <target state="translated">你的答案是</target>
         <note>The third guess of the quiz</note>
       </trans-unit>
       <trans-unit id="HP" xml:space="preserve">
@@ -2159,7 +2159,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="If target has a berry, inflicts double damage and uses the berry." xml:space="preserve">
         <source>If target has a berry, inflicts double damage and uses the berry.</source>
-        <target state="translated">如果目标有浆果，则造成双倍伤害并使用浆果。</target>
+        <target state="translated">如果目标有树果，则造成双倍伤害并使用树果。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="If the target is asleep, has double power and wakes it up." xml:space="preserve">
@@ -2219,7 +2219,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="If you chose Charmander as your starter." xml:space="preserve">
         <source>If you chose Charmander as your starter.</source>
-        <target state="translated">如果您选择小火龙作为您的开胃菜。</target>
+        <target state="translated">如果您选择小火龙作为您的初始宝可梦。</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="If you chose Chespin as your starter." xml:space="preserve">
@@ -2254,7 +2254,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="If you purchase Ketchup+ you can see data such as Pokédex descriptions and movesets for each creature across all the games." xml:space="preserve">
         <source>If you purchase Ketchup+ you can see data such as Pokédex descriptions and movesets for each creature across all the games.</source>
-        <target state="translated">如果您购买番茄酱+，您可以在所有游戏中看到每个生物的Pokédex描述和动作集等数据。</target>
+        <target state="translated">如果您购买番茄酱+，您可以在所有游戏中看到每个生物的Pokédex描述和招式集等数据。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Ignores and destroys protection effects." xml:space="preserve">
@@ -2294,7 +2294,7 @@ Pokémon Type Ground</note>
       </trans-unit>
       <trans-unit id="In triple battles, this move can be used on either side to target the farthest away opposing Pokémon." xml:space="preserve">
         <source>In triple battles, this move can be used on either side to target the farthest away opposing Pokémon.</source>
-        <target state="translated">在三重战斗中，这个动作可以在任何一方使用，以瞄准最远的敌对宝可梦。</target>
+        <target state="translated">在三重战斗中，这个招式可以在任何一方使用，以瞄准最远的敌对宝可梦。</target>
         <note/>
       </trans-unit>
       <trans-unit id="In-App-Purchases, and Refunds are handled by Apple, not app developers." xml:space="preserve">
@@ -2485,7 +2485,7 @@ Navigation item for items</note>
       </trans-unit>
       <trans-unit id="I’m a 30 year old designer, developer, and photographer from Dublin, Ireland. I’ve been hooked on Pokémon games ever since I first got to play Yellow version on a transluscent purple Game Boy Color. I hope that Ketchup will help Pokémon trainers around the world master these games that have brought me so much joy over the years." xml:space="preserve">
         <source>I’m a 30 year old designer, developer, and photographer from Dublin, Ireland. I’ve been hooked on Pokémon games ever since I first got to play Yellow version on a transluscent purple Game Boy Color. I hope that Ketchup will help Pokémon trainers around the world master these games that have brought me so much joy over the years.</source>
-        <target state="translated">我是一名来自爱尔兰都柏林的30岁的设计师、开发人员和摄影师。自从我第一次在半透明的紫色Game Boy Color上玩黄色版本以来，我就迷上了口袋妖怪游戏。我希望番茄酱能帮助世界各地的口袋妖怪训练师掌握这些多年来给我带来很多快乐的游戏。</target>
+        <target state="translated">我是一名来自爱尔兰都柏林的30岁的设计师、开发人员和摄影师。自从我第一次在半透明的紫色Game Boy Color上玩黄色版本以来，我就迷上了宝可梦游戏。我希望番茄酱能帮助世界各地的宝可梦训练师掌握这些多年来给我带来很多快乐的游戏。</target>
         <note/>
       </trans-unit>
       <trans-unit id="I’m not eating the cat food, just so we’re clear" xml:space="preserve">
@@ -2515,7 +2515,7 @@ Navigation item for items</note>
       </trans-unit>
       <trans-unit id="Ketchup+ lets you browse every Pokémon from all 9 generations." xml:space="preserve">
         <source>Ketchup+ lets you browse every Pokémon from all 9 generations.</source>
-        <target state="translated">番茄酱+允许您浏览所有9代口袋妖怪。</target>
+        <target state="translated">番茄酱+允许您浏览所有9代宝可梦。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Key Items" xml:space="preserve">
@@ -2540,12 +2540,12 @@ Navigation item for items</note>
       </trans-unit>
       <trans-unit id="Learn more about Delta" xml:space="preserve">
         <source>Learn more about Delta</source>
-        <target state="translated">了解更多关于三角洲的信息</target>
+        <target state="translated">了解更多关于Delta模拟器的信息</target>
         <note/>
       </trans-unit>
       <trans-unit id="Learned Moves" xml:space="preserve">
         <source>Learned Moves</source>
-        <target state="translated">学会了动作</target>
+        <target state="translated">学会了招式</target>
         <note>Creature Page Learned Moves Section Header</note>
       </trans-unit>
       <trans-unit id="Leave a Review" xml:space="preserve">
@@ -2610,7 +2610,7 @@ Navigation item for items</note>
       </trans-unit>
       <trans-unit id="Lowers the PP of the target’s last used move by 4." xml:space="preserve">
         <source>Lowers the PP of the target’s last used move by 4.</source>
-        <target state="translated">降低目标最后使用的动作的PP 4。</target>
+        <target state="translated">降低目标最后使用的招式的PP 4。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Lowers the target’s Attack and Defense by one stage." xml:space="preserve">
@@ -2760,7 +2760,7 @@ Navigation item for items</note>
       </trans-unit>
       <trans-unit id="Makes the target act next this turn." xml:space="preserve">
         <source>Makes the target act next this turn.</source>
-        <target state="translated">让目标在本回合执行下一步动作。</target>
+        <target state="translated">让目标在本回合执行下一步招式。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Mark as Caught" xml:space="preserve">
@@ -3032,7 +3032,7 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Only works if the target is about to use a damaging move." xml:space="preserve">
         <source>Only works if the target is about to use a damaging move.</source>
-        <target state="translated">仅当目标即将使用破坏性动作时才有效。</target>
+        <target state="translated">仅当目标即将使用破坏性招式时才有效。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Only works on sleeping Pokémon. Drains half the damage inflicted to heal the user." xml:space="preserve">
@@ -3052,7 +3052,7 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Other Moves" xml:space="preserve">
         <source>Other Moves</source>
-        <target state="translated">其他动作</target>
+        <target state="translated">其他招式</target>
         <note>Creature Page Other Moves Section Header</note>
       </trans-unit>
       <trans-unit id="PP" xml:space="preserve">
@@ -3077,7 +3077,7 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Paralyzes the target." xml:space="preserve">
         <source>Paralyzes the target.</source>
-        <target state="translated">使目标陷入麻痹。</target>
+        <target state="translated">使目标陷入麻痹状态。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Pearl" xml:space="preserve">
@@ -3132,7 +3132,7 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Playing Pokéflute" xml:space="preserve">
         <source>Playing Pokéflute</source>
-        <target state="translated">玩神奇宝贝笛</target>
+        <target state="translated">演奏宝可梦之笛</target>
         <note>Encounter Method</note>
       </trans-unit>
       <trans-unit id="Please don’t sue me." xml:space="preserve">
@@ -3152,18 +3152,18 @@ The uncaught state for a creature</note>
       </trans-unit>
       <trans-unit id="Poison" xml:space="preserve">
         <source>Poison</source>
-        <target state="translated">毒物</target>
+        <target state="translated">中毒</target>
         <note>Item Fling Effect
 Pokémon Type Poison</note>
       </trans-unit>
       <trans-unit id="Poisons the target and lowers its Speed by one stage." xml:space="preserve">
         <source>Poisons the target and lowers its Speed by one stage.</source>
-        <target state="translated">使目标中毒，并且降低其速度一个阶段。</target>
+        <target state="translated">使目标陷入中毒状态，令目标的速度降低1级。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Poisons the target." xml:space="preserve">
         <source>Poisons the target.</source>
-        <target state="translated">使目标中毒。</target>
+        <target state="translated">使目标陷入中毒状态。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Poké Balls" xml:space="preserve">
@@ -3198,7 +3198,7 @@ Pokémon Type Poison</note>
       </trans-unit>
       <trans-unit id="Power and type depend on the held berry." xml:space="preserve">
         <source>Power and type depend on the held berry.</source>
-        <target state="translated">力量和类型取决于所持有的浆果。</target>
+        <target state="translated">力量和类型取决于所持有的树果。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Power and type depend upon user’s IVs. Power can range from 30 to 70." xml:space="preserve">
@@ -3298,17 +3298,17 @@ Pokémon Type Poison</note>
       </trans-unit>
       <trans-unit id="Prevents any moves from hitting the user this turn." xml:space="preserve">
         <source>Prevents any moves from hitting the user this turn.</source>
-        <target state="translated">防止任何动作在此回合击中用户。</target>
+        <target state="translated">防止任何招式在此回合击中用户。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents any multi-target moves from hitting friendly Pokémon this turn." xml:space="preserve">
         <source>Prevents any multi-target moves from hitting friendly Pokémon this turn.</source>
-        <target state="translated">防止任何多目标动作在此回合击中友方神奇宝贝。</target>
+        <target state="translated">防止任何多目标招式在此回合击中友方神奇宝贝。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents any priority moves from hitting friendly Pokémon this turn." xml:space="preserve">
         <source>Prevents any priority moves from hitting friendly Pokémon this turn.</source>
-        <target state="translated">防止任何优先动作在本回合击中友方神奇宝贝。</target>
+        <target state="translated">防止任何优先招式在本回合击中友方神奇宝贝。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents target from restoring its HP for five turns." xml:space="preserve">
@@ -3338,17 +3338,17 @@ Pokémon Type Poison</note>
       </trans-unit>
       <trans-unit id="Prevents the target from using any moves that the user also knows." xml:space="preserve">
         <source>Prevents the target from using any moves that the user also knows.</source>
-        <target state="translated">阻止目标使用用户也知道的任何动作。</target>
+        <target state="translated">阻止目标使用用户也知道的任何招式。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents the target from using sound-based moves for two turns." xml:space="preserve">
         <source>Prevents the target from using sound-based moves for two turns.</source>
-        <target state="translated">阻止目标在两回合内使用基于声音的动作。</target>
+        <target state="translated">阻止目标在两回合内使用基于声音的招式。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents the target from using the same move twice in a row." xml:space="preserve">
         <source>Prevents the target from using the same move twice in a row.</source>
-        <target state="translated">防止目标连续两次使用相同的动作。</target>
+        <target state="translated">防止目标连续两次使用相同的招式。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Prevents the user from leaving battle. User regains 1/16 of its max HP every turn." xml:space="preserve">
@@ -3368,7 +3368,7 @@ Pokémon Type Poison</note>
       </trans-unit>
       <trans-unit id="Privacy" xml:space="preserve">
         <source>Privacy</source>
-        <target state="translated">隐居</target>
+        <target state="translated">用户隐私</target>
         <note/>
       </trans-unit>
       <trans-unit id="Protect" xml:space="preserve">
@@ -3388,7 +3388,7 @@ Pokémon Type Poison</note>
       </trans-unit>
       <trans-unit id="Protects all friendly Pokémon from non-damaging moves." xml:space="preserve">
         <source>Protects all friendly Pokémon from non-damaging moves.</source>
-        <target state="translated">保护所有友方神奇宝贝免受非伤害性动作的伤害。</target>
+        <target state="translated">保护所有友方神奇宝贝免受非伤害性招式的伤害。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Protects the user’s field from major status ailments and confusion for five turns." xml:space="preserve">
@@ -3638,12 +3638,12 @@ Pokémon Type Poison</note>
       </trans-unit>
       <trans-unit id="Randomly selects and uses any move in the game." xml:space="preserve">
         <source>Randomly selects and uses any move in the game.</source>
-        <target state="translated">随机选择并使用游戏中的任意动作。</target>
+        <target state="translated">随机选择并使用游戏中的任意招式。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Randomly selects and uses one of the trainer’s other Pokémon’s moves." xml:space="preserve">
         <source>Randomly selects and uses one of the trainer’s other Pokémon’s moves.</source>
-        <target state="translated">随机选择并使用训练师的其他宝可梦之一的动作。</target>
+        <target state="translated">随机选择并使用训练师的其他宝可梦之一的招式。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Randomly uses one of the user’s other three moves. Only works if the user is sleeping." xml:space="preserve">
@@ -3708,7 +3708,7 @@ Pokémon Type Poison</note>
       </trans-unit>
       <trans-unit id="Reflects back the first effect move used on the user this turn." xml:space="preserve">
         <source>Reflects back the first effect move used on the user this turn.</source>
-        <target state="translated">反射本回合对用户使用的第一个效果动作。</target>
+        <target state="translated">反射本回合对用户使用的第一个效果招式。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Refresh" xml:space="preserve">
@@ -3803,17 +3803,17 @@ Pokémon Type Poison</note>
       </trans-unit>
       <trans-unit id="SPATK" xml:space="preserve">
         <source>SPATK</source>
-        <target state="translated">免疫组化技术</target>
+        <target state="translated">特攻</target>
         <note>Battle Stat: SPATK (Special Attack)</note>
       </trans-unit>
       <trans-unit id="SPD" xml:space="preserve">
         <source>SPD</source>
-        <target state="translated">电涌保护器</target>
+        <target state="translated">速度</target>
         <note>Battle Stat: SPD (Speed)</note>
       </trans-unit>
       <trans-unit id="SPDEF" xml:space="preserve">
         <source>SPDEF</source>
-        <target state="translated">新加坡电力公司</target>
+        <target state="translated">特防</target>
         <note>Battle Stat: SPDEF (Special Defense)</note>
       </trans-unit>
       <trans-unit id="Sandwich Ingredients" xml:space="preserve">
@@ -3873,7 +3873,7 @@ Pokémon Type Poison</note>
       </trans-unit>
       <trans-unit id="Selected Pokemon Me First" xml:space="preserve">
         <source>Selected Pokemon Me First</source>
-        <target state="translated">精选的口袋妖怪我先</target>
+        <target state="translated">精选的宝可梦我先</target>
         <note/>
       </trans-unit>
       <trans-unit id="Selected Target" xml:space="preserve">
@@ -3888,12 +3888,12 @@ Pokémon Type Poison</note>
       </trans-unit>
       <trans-unit id="Sets Light Screen on the user’s side of the field after inflicting damage." xml:space="preserve">
         <source>Sets Light Screen on the user’s side of the field after inflicting damage.</source>
-        <target state="translated">造成伤害后，在用户的场地一侧设置光幕。</target>
+        <target state="translated">造成伤害后，在己方队伍筑起光墙</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Sets Reflecton the user’s side of the field after inflicting damage." xml:space="preserve">
         <source>Sets Reflecton the user’s side of the field after inflicting damage.</source>
-        <target state="translated">造成伤害后，在用户的场地一侧设置反射。</target>
+        <target state="translated">造成伤害后，在己方队伍筑起反射壁</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Sets the user’s and targets’s HP to the average of their current HP." xml:space="preserve">
@@ -3934,7 +3934,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Shiny Pokemon are very rare, and are highly valued among collectors." xml:space="preserve">
         <source>Shiny Pokemon are very rare, and are highly valued among collectors.</source>
-        <target state="translated">闪亮的口袋妖怪非常罕见，在收藏家中受到高度重视。</target>
+        <target state="translated">闪亮的宝可梦非常罕见，在收藏家中受到高度重视。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Show Favorites" xml:space="preserve">
@@ -4029,7 +4029,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Specific Move" xml:space="preserve">
         <source>Specific Move</source>
-        <target state="translated">特定动作</target>
+        <target state="translated">特定招式</target>
         <note/>
       </trans-unit>
       <trans-unit id="Spelunking" xml:space="preserve">
@@ -4074,7 +4074,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="Steals the target’s move, if it’s self-targeted." xml:space="preserve">
         <source>Steals the target’s move, if it’s self-targeted.</source>
-        <target state="translated">如果目标以自己为目标，则窃取目标的动作。</target>
+        <target state="translated">如果目标以自己为目标，则窃取目标的招式。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Steals the target’s stat increases, then inflicts damage." xml:space="preserve">
@@ -4239,7 +4239,7 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="The turn after this move is used, the Pokémon’s action is skipped so it can recharge." xml:space="preserve">
         <source>The turn after this move is used, the Pokémon’s action is skipped so it can recharge.</source>
-        <target state="translated">使用此动作后，口袋妖怪的动作被跳过，以便它可以充电。</target>
+        <target state="translated">使用此招式后，宝可梦的招式被跳过，以便它可以充电。</target>
         <note/>
       </trans-unit>
       <trans-unit id="There’s no difference in what you get, Ketchup+ Gold is just an easy way to leave an extra tip if you’re feeling generous and want to show some extra appreciation for the app!" xml:space="preserve">
@@ -4254,32 +4254,32 @@ The shiny caught state for a creature</note>
       </trans-unit>
       <trans-unit id="This app is not affiliated or endorsed by Nintendo, GameFreak, or The Pokémon company in any way. Pokémon, the character names, and information are trademarks of Nintendo. No copyright infringement is intended, this app is a fair-use reference for their works." xml:space="preserve">
         <source>This app is not affiliated or endorsed by Nintendo, GameFreak, or The Pokémon company in any way. Pokémon, the character names, and information are trademarks of Nintendo. No copyright infringement is intended, this app is a fair-use reference for their works.</source>
-        <target state="translated">此应用程序不以任何方式隶属于任天堂、GameFreak或口袋妖怪公司或认可。口袋妖怪、角色名称和信息是任天堂的商标。无意侵犯版权，该应用程序是他们作品的合理使用参考。</target>
+        <target state="translated">此应用程序不以任何方式隶属于任天堂、GameFreak或宝可梦公司或认可。宝可梦、角色名称和信息是任天堂的商标。无意侵犯版权，该应用程序是他们作品的合理使用参考。</target>
         <note/>
       </trans-unit>
       <trans-unit id="This move can be used while frozen to force the Pokémon to defrost." xml:space="preserve">
         <source>This move can be used while frozen to force the Pokémon to defrost.</source>
-        <target state="translated">此动作可以在冻结时使用，以迫使口袋妖怪解冻。</target>
+        <target state="translated">此招式可以在冻结时使用，以迫使宝可梦解冻。</target>
         <note/>
       </trans-unit>
       <trans-unit id="This move cannot be used in high gravity." xml:space="preserve">
         <source>This move cannot be used in high gravity.</source>
-        <target state="translated">这个动作不能在高重力中使用。</target>
+        <target state="translated">这个招式不能在高重力中使用。</target>
         <note/>
       </trans-unit>
       <trans-unit id="This move has 1.2× its usual power when used by a Pokémon with Iron-Fist." xml:space="preserve">
         <source>This move has 1.2× its usual power when used by a Pokémon with Iron-Fist.</source>
-        <target state="translated">当带有铁拳的宝可梦使用时，这个动作具有1.2倍的通常力量。</target>
+        <target state="translated">当带有铁拳的宝可梦使用时，这个招式具有1.2倍的通常力量。</target>
         <note/>
       </trans-unit>
       <trans-unit id="This move has 1.5× its usual power when used by a Pokémon with Mega-Launcher." xml:space="preserve">
         <source>This move has 1.5× its usual power when used by a Pokémon with Mega-Launcher.</source>
-        <target state="translated">当口袋妖怪与巨型启动器一起使用时，此举具有1.5倍的通常功率。</target>
+        <target state="translated">当宝可梦与巨型启动器一起使用时，此举具有1.5倍的通常功率。</target>
         <note/>
       </trans-unit>
       <trans-unit id="This move has 1.5× its usual power when used by a Pokémon with Strong-Jaw." xml:space="preserve">
         <source>This move has 1.5× its usual power when used by a Pokémon with Strong-Jaw.</source>
-        <target state="translated">当一个拥有强隯的宝可梦使用时，这个动作具有1.5倍的通常力量。</target>
+        <target state="translated">当一个拥有强隯的宝可梦使用时，这个招式具有1.5倍的通常力量。</target>
         <note/>
       </trans-unit>
       <trans-unit id="This move has a charging turn, and can be skipped with a Power Herb." xml:space="preserve">
@@ -4432,7 +4432,7 @@ Item Category
       </trans-unit>
       <trans-unit id="Unlock Every Creature" xml:space="preserve">
         <source>Unlock Every Creature</source>
-        <target state="translated">解锁每一个生物</target>
+        <target state="translated">解锁每一个宝可梦的详细信息</target>
         <note>Paywall Text</note>
       </trans-unit>
       <trans-unit id="Unused" xml:space="preserve">
@@ -4652,22 +4652,22 @@ Item Category
       </trans-unit>
       <trans-unit id="User’s type changes to the type of one of its moves at random." xml:space="preserve">
         <source>User’s type changes to the type of one of its moves at random.</source>
-        <target state="translated">用户的类型会随机变为其某一动作的类型。</target>
+        <target state="translated">用户的类型会随机变为其某一招式的类型。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Uses a move which depends upon the terrain." xml:space="preserve">
         <source>Uses a move which depends upon the terrain.</source>
-        <target state="translated">使用取决于地形的动作。</target>
+        <target state="translated">使用取决于地形的招式。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Uses the target’s last used move." xml:space="preserve">
         <source>Uses the target’s last used move.</source>
-        <target state="translated">使用目标最后使用的动作。</target>
+        <target state="translated">使用目标最后使用的招式。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Uses the target’s move against it before it attacks, with power increased by half." xml:space="preserve">
         <source>Uses the target’s move against it before it attacks, with power increased by half.</source>
-        <target state="translated">在攻击前利用目标的动作对其进行攻击，威力增加一半。</target>
+        <target state="translated">在攻击前利用目标的招式对其进行攻击，威力增加一半。</target>
         <note>Move Effect Description</note>
       </trans-unit>
       <trans-unit id="Using Devon Scope" xml:space="preserve">
@@ -4792,7 +4792,7 @@ Item Category
       </trans-unit>
       <trans-unit id="What’s Delta, and what are skins?" xml:space="preserve">
         <source>What’s Delta, and what are skins?</source>
-        <target state="translated">什么是三角洲，什么是皮肤？</target>
+        <target state="translated">什么是Delta模拟器，模拟器皮肤又是什么？</target>
         <note/>
       </trans-unit>
       <trans-unit id="What’s the difference between the two prices for Ketchup+?" xml:space="preserve">
@@ -4835,7 +4835,7 @@ Item Category
       </trans-unit>
       <trans-unit id="Who’s That Pokémon?!" xml:space="preserve">
         <source>Who’s That Pokémon?!</source>
-        <target state="translated">那个神奇宝贝是谁？！</target>
+        <target state="translated">？？？我是谁 ？？？</target>
         <note/>
       </trans-unit>
       <trans-unit id="Wings" xml:space="preserve">
@@ -4925,7 +4925,7 @@ Item Category
       </trans-unit>
       <trans-unit id="With the PokéGear Radio set to Hoenn Sounds." xml:space="preserve">
         <source>With the PokéGear Radio set to Hoenn Sounds.</source>
-        <target state="translated">将 PokéGear 收音机设置为 Hoenn Sounds。</target>
+        <target state="translated">将 PokéGear 电台设置为 Hoenn Sounds。</target>
         <note>Encounter Condition</note>
       </trans-unit>
       <trans-unit id="With the PokéGear Radio set to Sinnoh Sounds." xml:space="preserve">
@@ -4960,7 +4960,7 @@ Item Category
       </trans-unit>
       <trans-unit id="You haven’t caught any pokemon yet!" xml:space="preserve">
         <source>You haven’t caught any pokemon yet!</source>
-        <target state="translated">你还没有抓到任何口袋妖怪！</target>
+        <target state="translated">你还没有抓到任何宝可梦！</target>
         <note/>
       </trans-unit>
       <trans-unit id="You haven’t caught any shinies yet!" xml:space="preserve">
@@ -4985,22 +4985,22 @@ Item Category
       </trans-unit>
       <trans-unit id="Z-Crystals" xml:space="preserve">
         <source>Z-Crystals</source>
-        <target state="translated">Z-晶体</target>
+        <target state="new">Z纯晶</target>
         <note>Item Category</note>
       </trans-unit>
       <trans-unit id="a specific creature" xml:space="preserve">
         <source>a specific creature</source>
-        <target state="translated">一种特定的生物</target>
+        <target state="translated">特定的宝可梦</target>
         <note>text for creatures that level up when traded with a specific creature</note>
       </trans-unit>
       <trans-unit id="a specific item" xml:space="preserve">
         <source>a specific item</source>
-        <target state="translated">特定项目</target>
+        <target state="translated">特定的道具</target>
         <note>a specific item evolution text</note>
       </trans-unit>
       <trans-unit id="after using Agile Style Psyshield Bash at least 20 times" xml:space="preserve">
         <source>after using Agile Style Psyshield Bash at least 20 times</source>
-        <target state="translated">使用敏捷风格Psyshield Bash至少20次后</target>
+        <target state="translated">以迅疾使出20次屏障猛攻后</target>
         <note>Wydeer evolution Text</note>
       </trans-unit>
       <trans-unit id="all features + tip" xml:space="preserve">
@@ -5010,12 +5010,12 @@ Item Category
       </trans-unit>
       <trans-unit id="at level 25 only when leveled up in a battle. If it does not appear in battle, there won’t be an evolution animation" xml:space="preserve">
         <source>at level 25 only when leveled up in a battle. If it does not appear in battle, there won’t be an evolution animation</source>
-        <target state="translated">只有在战斗中升级时才达到25级。如果它没有出现在战斗中，就不会有进化动画</target>
+        <target state="translated">通过对战达到25级以上时。如果不是在对战中升级就不会有进化动画</target>
         <note>Maushold evolution text</note>
       </trans-unit>
       <trans-unit id="at level 38 when leveled up while connected with another player via the Union Circle" xml:space="preserve">
         <source>at level 38 when leveled up while connected with another player via the Union Circle</source>
-        <target state="translated">通过联盟圈与另一名玩家连接时，在38级升级</target>
+        <target state="translated">通过集友圈与另一名玩家连接时，升级达到38级以上</target>
         <note>Palafin evolution text</note>
       </trans-unit>
       <trans-unit id="change up your homescreen with some fresh app icons for Ketchup" xml:space="preserve">
@@ -5060,7 +5060,7 @@ Item Category
       </trans-unit>
       <trans-unit id="or" xml:space="preserve">
         <source>or</source>
-        <target state="translated">奥勒冈州</target>
+        <target state="translated">或</target>
         <note/>
       </trans-unit>
       <trans-unit id="see each creature’s info across generations" xml:space="preserve">
@@ -5080,7 +5080,7 @@ Item Category
       </trans-unit>
       <trans-unit id="to unlock all the great creatures and features" xml:space="preserve">
         <source>to unlock all the great creatures and features</source>
-        <target state="translated">解锁所有伟大的生物和特征</target>
+        <target state="translated">解锁完整的宝可梦图鉴与更多有趣的功能</target>
         <note/>
       </trans-unit>
       <trans-unit id="using an unknown method" xml:space="preserve">
@@ -5145,7 +5145,7 @@ Item Category
       </trans-unit>
       <trans-unit id="you simply gotta unlock ’em all if you want to be the very best" xml:space="preserve">
         <source>you simply gotta unlock ’em all if you want to be the very best</source>
-        <target state="translated">如果你想成为最好的，你就必须解锁所有</target>
+        <target state="translated">解锁完整版图鉴，成为宝可梦大师！</target>
         <note>Paywall Text</note>
       </trans-unit>
       <trans-unit id="—" xml:space="preserve">
